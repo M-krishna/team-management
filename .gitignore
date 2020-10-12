@@ -115,7 +115,3 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
-
-# Migration files
-**/migrations/*
-!**/migrations/__init__.py
